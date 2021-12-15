@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "first_name": "George",
+      "last_name": "Bluth",
+      "email": "george.bluth@gmail.in",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "email": "janet.weaver@reqres.in",
+      "first_name": "Janet",
+      "last_name": "Weaver",
+      "avatar": "https://reqres.in/img/faces/2-image.jpg"
+    },
+    {
+      "id": 3,
+      "email": "emma.wong@reqres.in",
+      "first_name": "Emma",
+      "last_name": "Wong",
+      "avatar": "https://reqres.in/img/faces/3-image.jpg"
+    },
+    {
+      "id": 4,
+      "email": "eve.holt@reqres.in",
+      "first_name": "Eve",
+      "last_name": "Holt",
+      "avatar": "https://reqres.in/img/faces/4-image.jpg"
+    },
+    {
+      "id": 5,
+      "email": "charles.morris@reqres.in",
+      "first_name": "Charles",
+      "last_name": "Morris",
+      "avatar": "https://reqres.in/img/faces/5-image.jpg"
+    },
+    {
+      "id": 6,
+      "email": "tracey.ramos@reqres.in",
+      "first_name": "Tracey",
+      "last_name": "Ramos",
+      "avatar": "https://reqres.in/img/faces/6-image.jpg"
+    },
+    {
+      "first_name": "ekta",
+      "last_name": "jeswani",
+      "email": "ekta4994@gmail.com",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg",
+      "id": 7
+    },
+    {
+      "first_name": "mina",
+      "last_name": "rathord",
+      "email": "mr@gmail.com",
+      "avatar": "https://reqres.in/img/faces/4-image.jpg",
+      "id": 8
+    },
+    {
+      "first_name": "ekta",
+      "last_name": "jeswani",
+      "email": "ekta4994@gmail.com",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg",
+      "id": 9
+    },
+    {
+      "first_name": "mina",
+      "last_name": "rathord",
+      "email": "mr@gmail.com",
+      "avatar": "https://reqres.in/img/faces/4-image.jpg",
+      "id": 11
+    },
+    {
+      "first_name": "mina",
+      "last_name": "rathordd",
+      "email": "mrj@gmail.com",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg",
+      "id": 12
+    },
+    {
+      "first_name": "Raman",
+      "last_name": "Singh",
+      "email": "rsingh@gmail.com",
+      "avatar": "https://reqres.in/img/faces/10-image.jpg",
+      "id": 13
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
