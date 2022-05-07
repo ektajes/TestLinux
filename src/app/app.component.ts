@@ -9,6 +9,7 @@ import {Validators, FormGroup, FormControl, FormArray, FormBuilder} from '@angul
 export class AppComponent {
   title = 'myapp';
   users:any;
+  
   userdata:any;
 newuser!:FormGroup;
 userid:any;
